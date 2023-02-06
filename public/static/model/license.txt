@@ -1,0 +1,11 @@
+Model Information:
+* title:	GBU-49 EP2 Laser-guided Bomb
+* source:	https://sketchfab.com/3d-models/gbu-49-ep2-laser-guided-bomb-8b01a2821571466f901f3e30c7547035
+* author:	Jeyhun1985 (https://sketchfab.com/Jeyhun1985)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GBU-49 EP2 Laser-guided Bomb" (https://sketchfab.com/3d-models/gbu-49-ep2-laser-guided-bomb-8b01a2821571466f901f3e30c7547035) by Jeyhun1985 (https://sketchfab.com/Jeyhun1985) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
